@@ -1,4 +1,5 @@
 import streamlit as st
+st.image(""C:\Users\abhin\Downloads\ai.jpg"", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
